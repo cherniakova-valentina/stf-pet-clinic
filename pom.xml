@@ -45,9 +45,8 @@
 	</build>
 
 	<scm>
-		<connection>scm:git:https://${cherniakova-valentina}:${0303Valentyna1996}@github.com/cherniakova-valentina/stf-pet-clinic.git</connection>
-		<url>http://server.host.name/path/to/project.git</url>
-		<tag>HEAD</tag>
+		<developerConnection>scm:git:https://${cherniakova-valentina}:${0303Valentyna1996}@github.com/cherniakova-valentina/stf-pet-clinic.git</developerConnection>
+
   </scm>
 
 </project>
