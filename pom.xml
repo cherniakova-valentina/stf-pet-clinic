@@ -46,7 +46,6 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/cherniakova-valentina/stf-pet-clinic.git</developerConnection>
-	  <tag>HEAD</tag>
   </scm>
 
 </project>
