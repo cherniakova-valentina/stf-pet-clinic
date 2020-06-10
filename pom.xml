@@ -45,10 +45,8 @@
 	</build>
 
 	<scm>
-		<connection>scm:git:https://github.com/cherniakova-valentina/stf-pet-clinic.git</connection>
 		<developerConnection>scm:git:https://github.com/cherniakova-valentina/stf-pet-clinic.git</developerConnection>
-		<url>https://github.com/cherniakova-valentina/stf-pet-clinic</url>
-	  <tag>sfg-pet-clinic-0.0.3</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
