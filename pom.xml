@@ -45,8 +45,7 @@
 	</build>
 
 	<scm>
-		<connection>scm:git:https://cherniakova-valentina:0303Valentyna1996@github.com/cherniakova-valentina/stf-pet-clinic.git</connection>
-		<developerConnection>scm:git:https://cherniakova-valentina:0303Valentyna1996@github.com/cherniakova-valentina/stf-pet-clinic.git</developerConnection>
-  </scm>
+		<developerConnection>scm:git:git@github.com:cherniakova-valentina/stf-pet-clinic.git</developerConnection>
+	</scm>
 
 </project>
