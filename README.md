@@ -2,4 +2,4 @@
 
 # stf-pet-clinic
 
-STF Pet Clinic
+STF Pet Clinic - my pet project!
